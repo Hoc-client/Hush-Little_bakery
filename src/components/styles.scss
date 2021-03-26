@@ -1,0 +1,21 @@
+@import "./node_modules/@glidejs/glide/src/assets/sass/glide.core";
+@import "./node_modules/@glidejs/glide/src/assets/sass/glide.theme";
+
+.glide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin-top: -175px;
+}
+
+
+.glide__arrows button {
+    color: black;
+    margin-top: 325px;
+}
+
+.glide__slide  {
+    width: auto;
+    height: 550px;
+}
